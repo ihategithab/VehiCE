@@ -1,0 +1,9 @@
+# This file is used to specify which parts can be saved. Without it, the player will not be able to save creations which use your mod's parts.
+# Note that this file does not contain a list of parts at all. That's because this file inherits from the one in ce_EditorKeys~, meaning that
+# only one list has to be maintained, rather than several.
+
+# This file's name should always be unique to your mod. If two mods add files which use the same filename, the file from one of them will be ignored.
+# Such conflicts can often be avoided by including your mod's name or a unique abbreviation of it in your files' names. This applies to most files in a mod.
+
+
+key parent ce_EditorKeys~!vehice.prop

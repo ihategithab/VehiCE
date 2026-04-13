@@ -1,0 +1,10 @@
+# This file is used to specify which parts can be saved. Without it, the player will not be able to save creations which use your mod's parts.
+# This file's name should always be unique to your mod. If two mods add files which use the same filename, the file from one of them will be ignored.
+# Such conflicts can often be avoided by including your mod's name or a unique abbreviation of it in your files' names. This applies to most files in a mod.
+
+
+key parent Adventure_brushes~!TemplateManifest.prop
+
+keys validEditorKeys
+	# Add all your parts here
+end

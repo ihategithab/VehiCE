@@ -1,0 +1,17 @@
+key parent palette_config~!templatepalettepartssubcategory.prop
+keys paletteCategoryIconList
+	CreaturePartIcons~!vehice_button-detail-norm_temp.png
+	CreaturePartIcons~!vehice_button-detail-off_temp.png
+	CreaturePartIcons~!vehice_button-detail-hl_temp.png
+	CreaturePartIcons~!vehice_button-detail-act_temp.png
+	CreaturePartIcons~!vehice_button-detail-on-norm_temp.png
+	CreaturePartIcons~!vehice_button-detail-off_temp.png
+	CreaturePartIcons~!vehice_button-detail-on-hl_temp.png
+	CreaturePartIcons~!vehice_button-detail-on-act_temp.png
+	CreaturePartIcons~!vehice_button-detail-on-norm_temp.png
+end
+texts paletteCategoryName
+	"Bodies/Detail"
+end
+key paletteCategoryParentCategory creature_editor_palette_categories~!ce_vehice_category_sub.prop
+uint32 paletteCategorySequenceNumber 1150

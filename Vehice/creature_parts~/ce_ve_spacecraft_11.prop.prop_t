@@ -1,0 +1,25 @@
+key parent CreatureEditorTemplates!CreatureDetailTemplate
+key modelMeshLOD0 editor_rigblocks~!ce_ve_spacecraft_11.rw4
+key skinpaintDiffuseTexture part_skin_textures~!ce_ve_spacecraft_11.rw4.dds
+key skinpaintSpecBumpTexture part_skin_textures~!headbase2__specbump.rw4.dds
+key skinpaintTintMaskTexture part_skin_textures~!ce_ve_spacecraft_11.rw4.dds
+key modelRightFile creature_parts~!ce_ve_spacecraft_11-symmetric
+key modelLeftFile creature_parts~!ce_ve_spacecraft_11
+vector3 modelRotation (0, 0, 0)
+vector3 modelRotationBallHandleOffset (0, -0.9, 0)
+string16 modelRigBlockAMTag "round|circular"
+texts blockName
+	"(VehicleRigblocks!0x9409bf55)"
+end
+
+float modelMaxScale 100
+float modelMinScale 0.01
+float modelScale 0.5
+int32 modelPrice 0
+int32 modelComplexityScore 0
+keys modelEffect
+	0x042B280B
+end
+keys modelRuntimeEffect
+	0x042B280A
+end

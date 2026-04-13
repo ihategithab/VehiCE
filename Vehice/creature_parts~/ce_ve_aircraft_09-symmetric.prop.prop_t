@@ -1,0 +1,15 @@
+key parent creature_parts~!ce_ve_aircraft_09
+bboxs modelDefaultChannelsBBox
+	(-0.624332, -0.526404, -0.30225) (0.843322, 0.024999, 0.300055)
+end
+transforms modelEffectTransforms
+	-offset (0, 0, 0) -scale 1 -rotateXYZ -180 0.0001453 -180
+end
+key modelMeshLOD0 editor_rigblocks~!ce_ve_aircraft_09-symmetric.rw4
+vector3 modelRotation (0, -90, 0)
+vector3 modelRotationBallHandleOffset (0, -0.9, 0)
+float 0x0A7A6248 0.5
+float 0x0A7A624D 2.4000001
+int32 0xB127D21A 1
+bool modelUseDummyBlocks true
+int32 modelComplexityScore 0

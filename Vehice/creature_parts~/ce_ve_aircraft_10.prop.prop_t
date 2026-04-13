@@ -1,0 +1,26 @@
+key parent CreatureEditorTemplates!CreatureDetailTemplate
+key modelMeshLOD0 editor_rigblocks~!ce_ve_aircraft_10.rw4
+key skinpaintDiffuseTexture part_skin_textures~!ce_ve_aircraft_10.rw4.dds
+key skinpaintSpecBumpTexture part_skin_textures~!headbase2__specbump.rw4.dds
+key skinpaintTintMaskTexture part_skin_textures~!ce_ve_aircraft_10.rw4.dds
+key modelRightFile creature_parts~!ce_ve_aircraft_10-symmetric
+key modelLeftFile creature_parts~!ce_ve_aircraft_10
+
+texts blockName
+	"CE"
+end
+
+float modelMaxScale 100
+float modelMinScale 0.01
+float modelScale 0.5
+int32 modelPrice 0
+int32 modelComplexityScore 0
+string16 modelRigBlockAMTag "conic|round"
+vector3 modelRotation (0, 90, 0)
+vector3 modelRotationBallHandleOffset (0, -0.9, 0)
+keys modelEffect
+	0xF19018BD
+end
+keys modelRuntimeEffect
+	0xF19018BC
+end

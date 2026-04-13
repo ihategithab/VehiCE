@@ -1,0 +1,10 @@
+key parent creature_parts~!ce_ve_aircraft_11
+bboxs modelDefaultChannelsBBox
+	(-0.607713, -0.616735, -0.32728) (0.476124, 0.037956, 0.327409)
+end
+transforms modelEffectTransforms
+	-offset (0, 0, 0) -scale 1 -rotateXYZ -180 0.0001453 -180
+end
+key modelMeshLOD0 editor_rigblocks~!ce_ve_aircraft_11-symmetric.rw4
+vector3 modelRotation (0, -90, 0)
+vector3 modelRotationBallHandleOffset (0, -0.9, 0)

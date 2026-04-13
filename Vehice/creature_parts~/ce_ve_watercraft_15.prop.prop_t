@@ -1,0 +1,15 @@
+key parent CreatureEditorTemplates!CreatureDetailTemplate
+key modelMeshLOD0 editor_rigblocks~!ce_ve_watercraft_15.rw4
+key skinpaintDiffuseTexture part_skin_textures~!ce_ve_spacecraft_06.rw4.dds
+key skinpaintSpecBumpTexture part_skin_textures~!headbase2__specbump.rw4.dds
+key skinpaintTintMaskTexture part_skin_textures~!ce_ve_spacecraft_06.rw4.dds
+
+texts blockName
+	"CE"
+end
+
+float modelMaxScale 100
+float modelMinScale 0.01
+float modelScale 0.5
+int32 modelPrice 0
+int32 modelComplexityScore 0

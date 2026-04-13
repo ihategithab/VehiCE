@@ -1,0 +1,16 @@
+key parent palette_config~!templatepalettepartscategorywithsubcategories.prop
+keys paletteCategoryIconList
+	CreaturePartIcons~!vehice_button-detail-norm_temp.png
+	CreaturePartIcons~!vehice_button-detail-off_temp.png
+	CreaturePartIcons~!vehice_button-detail-hl_temp.png
+	CreaturePartIcons~!vehice_button-detail-act_temp.png
+	CreaturePartIcons~!vehice_button-detail-on-norm_temp.png
+	CreaturePartIcons~!vehice_button-detail-off_temp.png
+	CreaturePartIcons~!vehice_button-detail-on-hl_temp.png
+	CreaturePartIcons~!vehice_button-detail-on-act_temp.png
+	CreaturePartIcons~!vehice_button-detail-on-norm_temp.png
+end
+texts paletteCategoryName
+	"VehiCE"
+end
+uint32 paletteCategorySequenceNumber 800

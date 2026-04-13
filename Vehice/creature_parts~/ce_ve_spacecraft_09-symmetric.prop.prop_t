@@ -1,0 +1,7 @@
+key parent creature_parts~!ce_ve_spacecraft_09
+bboxs modelDefaultChannelsBBox
+	(-0.303203, -1.694262, -0.406515) (0.297821, 0.032635, 0.158797)
+end
+key modelMeshLOD0 editor_rigblocks~!ce_ve_spacecraft_09-symmetric.rw4
+vector3 modelRotation (0, 0, 0)
+vector3 modelRotationBallHandleOffset (0, -0.9, 0)
