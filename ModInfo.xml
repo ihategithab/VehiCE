@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod description="" displayName="Vehice" dllsBuild="$SPOREMOD_DLLS_BUILD" githubUrl="https://github.com/ihategithab/vehiCE.git" hasCustomInstaller="false" installerSystemVersion="1.0.1.2" isExperimental="$SPOREMOD_EXPERIMENTAL" unique="Vehice" websiteUrl="https://github.com/ihategithab/Vehice22">
+  <prerequisite game="GalacticAdventures">Vehice.package</prerequisite>
+</mod>
