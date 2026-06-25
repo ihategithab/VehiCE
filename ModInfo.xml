@@ -1,3 +1,3 @@
-<mod description="VehiCE adds almost all the vehicle parts to the creature editor." displayName="Vehice" dllsBuild="$SPOREMOD_DLLS_BUILD" githubUrl="https://github.com/ihategithab/vehiCE.git" hasCustomInstaller="false" installerSystemVersion="1.0.1.2" isExperimental="false" unique="Vehice" websiteUrl="https://github.com/ihategithab/vehiCE">
-  <prerequisite game="GalacticAdventures">Vehice.package</prerequisite>
+<mod displayName="VehiCE" unique="Vehice" description="This mod adds almost all the vehicle parts to the creature editor." installerSystemVersion="1.0.1.1" hasCustomInstaller="false" dllsBuild="2.5.20" requiresGalaxyReset="false" causesSaveDataDependency="false">
+	<prerequisite>Vehice.package</prerequisite>
 </mod>
